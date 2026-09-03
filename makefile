@@ -1,0 +1,1 @@
+g++ -std=c++20 WifiManager.cpp -o multiwan ${pkg-config --cflags --libs libnm}

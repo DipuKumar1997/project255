@@ -1,0 +1,3 @@
+ docker rm -f multiwan-server
+docker build -t multiwan-server .
+
